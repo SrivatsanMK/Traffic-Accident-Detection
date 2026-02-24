@@ -6,3 +6,7 @@ env/
 
 # Large model weights
 model_weights.h5
+
+# Dataset
+data.zip
+data/
