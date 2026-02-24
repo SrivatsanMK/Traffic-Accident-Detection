@@ -1,0 +1,8 @@
+# Python bytecode (compiled files)
+__pycache__/
+
+# Virtual environment (dependencies)
+env/
+
+# Large model weights
+model_weights.h5
